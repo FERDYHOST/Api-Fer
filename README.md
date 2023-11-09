@@ -27,7 +27,7 @@
 
 ### STEP 1: Fork this GitHub Repository
 
-[![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/razn-id/Api-Razan/fork)
+[![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/FERDYHOST/Api-Fer/fork)
 
 ### STEP 2: Create a MongoDB Account and Database
 
@@ -65,9 +65,9 @@ Get Apikey Recaptcha From https://www.google.com/recaptcha/admin/create
 
 Edit the file `settings.js` for the following configurations:
 
-[`Change the Creator's name.`](https://github.com/razn-id/Api-Razan/blob/master/settings.js#:~:text=creator%20%3D%20%27-,%E4%B9%82%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%A5%E4%B9%82,-%27%20//%20Nama)<br>
-[`Change the port.`](https://github.com/razn-id/Api-Razan/blob/master/settings.js#:~:text=port%20%3D-,8080,-//port%20host)<br>
-[`Adjust the API key limit.`](https://github.com/razn-id/Api-Razan/blob/master/settings.js#:~:text=LimitApikey%20%3D-,200,-//%20Limit%20Apikey%20default)<br>
+[`Change the Creator's name.`](https://github.com/FERDYHOST/Api-Fer/blob/master/settings.js#:~:text=creator%20%3D%20%27-,%E4%B9%82%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%A5%E4%B9%82,-%27%20//%20Nama)<br>
+[`Change the port.`](https://github.com/FERDYHOST/Api-Fer/blob/master/settings.js#:~:text=port%20%3D-,8080,-//port%20host)<br>
+[`Adjust the API key limit.`](https://github.com/FERDYHOST/Api-Fer/blob/master/settings.js#:~:text=LimitApikey%20%3D-,200,-//%20Limit%20Apikey%20default)<br>
 
 ## 🚀 Usage
 
@@ -114,7 +114,7 @@ npm run node
 
 ## 🌍 Deployment
 
-- [api.rivqi.my.id](https://api.rivqi.my.id)
+- [api.ferdynesia.com](https://api.ferdynesia.com)
 - [alpis.eu.org](https://alpis.eu.org)
 
 ## 👏 Support Deploy Free
@@ -125,4 +125,4 @@ npm run node
 ## 💳 Credits
 
 - [AlipBot](https://github.com/AlipBot)
-- [razn-id](https://github.com/razn-id)
+- [FERDYHOST](https://github.com/FERDYHOST)
